@@ -1,7 +1,7 @@
 book_filename: "gitbook-demo"
 rmd_files: ["index.Rmd",
             "risks.Rmd",
-            #"notice_and_disclaimer.Rmd",
+            "notice_and_disclaimer.Rmd",
             #"executive_summary.Rmd",
             #"the_highlight_of_BBDao_club.Rmd",
             #"online_poker_today.Rmd",
